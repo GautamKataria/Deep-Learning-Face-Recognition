@@ -1,6 +1,7 @@
 # Face-Recognition-from-scratch
 
-This repository houses the code for performing  face recognition classification from scratch
+This repository houses the code for performing  face recognition classification from scratch.
+Using ahrcascade classifier and transfer-learning techniques
 
 ### SETUP:
 ##### First download the following files 
